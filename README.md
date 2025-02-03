@@ -1,7 +1,7 @@
 # pMD-problems
 ## A library of p-median problems with distance constraints (pMDs).  
 
-These benchmarks complement the paper **"A Heuristic CP Method for the p-median Problem with Distance Constraints"**.
+These benchmarks complement the paper ***"A Heuristic CP Method for the p-median Problem with Distance Constraints"***.
 
 
 ### Description of input files:
