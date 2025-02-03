@@ -27,18 +27,18 @@ The first line after **12 shortest paths and Euclidean distances between clients
 
 ### A small pMD example:
 
-25 3 4 3
-3 clients:
-11
-12
-13
-4 candidate facilities:
-4
-7
-9
-14
-3 constraints between facilities and clients:
-0 0
+25 3 4 3<br>
+3 clients:<br>
+11<br>
+12<br>
+13<br>
+4 candidate facilities:<br>
+4<br>
+7<br>
+9<br>
+14<br>
+3 constraints between facilities and clients:<br>
+0 0<br>
 1 1
 2 1
 3 constraints between facilities:
