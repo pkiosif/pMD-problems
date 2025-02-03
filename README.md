@@ -8,7 +8,7 @@ These benchmarks complement the paper ***"A Heuristic CP Method for the p-median
 
 The example below demonstrates a small pMD problem input file. The first line consists of four (4) different number **25 3 4 3**. Let |CL| be the number of clients on a grid, |P| the number of candidate facility points and |F| the number of facilities. In the given example **Grid size = 25 $\times$ 25**, **|CL| = 3**, **|P| = 4** and **|F| = 3**.
 
-Next, the clients' and candidate facility points' IDs are presented (e.g. 3 clients: 11, 12, 13 where client<sub>_1</sub> ID = 11). Afterwards, the distance constraints between facilities and clients and between facilities are presented in turn. 
+Next, the clients' and candidate facility points' IDs are presented (e.g. 3 clients: 11, 12, 13 where client<sub>1</sub> ID = 11). Afterwards, the distance constraints between facilities and clients and between facilities are presented in turn. 
 
 **Distance constraints between facilities and clients:**
 The first line after **3 constraints between facilities and clients:**, contains **0 0** meaning that the first facility (x<sub>0</sub>) must have an Euclidean distance greater than (>) zero (0) from all clients. Similarly, the second facility (x<sub>1</sub>) must have D[x<sub>1</sub>,c] > 1 $\forall c \in CL$.
