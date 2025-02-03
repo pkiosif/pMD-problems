@@ -39,35 +39,35 @@ The first line after **12 shortest paths and Euclidean distances between clients
 14<br>
 3 constraints between facilities and clients:<br>
 0 0<br>
-1 1
-2 1
-3 constraints between facilities:
-0 1 0
-0 2 0
-1 2 0
-12 shortest paths and Euclidean distances between candidate facilities:
-4 7 5 2.236068
-4 9 1 1.000000
-4 14 2 2.000000
-7 4 5 2.236068
-7 9 4 2.000000
-7 14 3 2.236068
-9 4 1 1.000000
-9 7 4 2.000000
-9 14 1 1.000000
-14 4 2 2.000000
-14 7 3 2.236068
-14 9 1 1.000000
-12 shortest paths and Euclidean distances between clients and candidate facilities:
-11 4 5 3.605551
-11 7 2 1.414214
-11 9 4 3.162278
-11 14 3 3.000000
-12 4 4 2.828427
-12 7 1 1.000000
-12 9 3 2.236068
-12 14 2 2.000000
-13 4 3 2.236068
-13 7 2 1.414214
-13 9 2 1.414214
-13 14 1 1.000000
+1 1<br>
+2 1<br>
+3 constraints between facilities:<br>
+0 1 0<br>
+0 2 0<br>
+1 2 0<br>
+12 shortest paths and Euclidean distances between candidate facilities:<br>
+4 7 5 2.236068<br>
+4 9 1 1.000000<br>
+4 14 2 2.000000<br>
+7 4 5 2.236068<br>
+7 9 4 2.000000<br>
+7 14 3 2.236068<br>
+9 4 1 1.000000<br>
+9 7 4 2.000000<br>
+9 14 1 1.000000<br>
+14 4 2 2.000000<br>
+14 7 3 2.236068<br>
+14 9 1 1.000000<br>
+12 shortest paths and Euclidean distances between clients and candidate facilities:<br>
+11 4 5 3.605551<br>
+11 7 2 1.414214<br>
+11 9 4 3.162278<br>
+11 14 3 3.000000<br>
+12 4 4 2.828427<br>
+12 7 1 1.000000<br>
+12 9 3 2.236068<br>
+12 14 2 2.000000<br>
+13 4 3 2.236068<br>
+13 7 2 1.414214<br>
+13 9 2 1.414214<br>
+13 14 1 1.000000<br>
