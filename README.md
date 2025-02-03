@@ -11,7 +11,7 @@ The example below demonstrates a small pMD problem input file. The first line co
 Next, the clients' and candidate facility points' IDs are presented (e.g. 3 clients: 11, 12, 13 where client$_1$ ID = 11). Afterwards, the distance constraints between facilities and clients and between facilities are presented in turn. 
 
 **Distance constraints between facilities and clients:**
-The first line after **3 constraints between facilities and clients:**, contains **0 0** meaning that the first facility (x<sub>0</sub>) must have an Euclidean distance greater than (>) zero (0) from all clients. Similarly, the second facility (x<sub>1</sub>) must have D[x<sub>1</sub>,c<sub>k</sub>] > 1 $\forall c \in CL$.
+The first line after **3 constraints between facilities and clients:**, contains **0 0** meaning that the first facility (x<sub>0</sub>) must have an Euclidean distance greater than (>) zero (0) from all clients. Similarly, the second facility (x<sub>1</sub>) must have D[x<sub>1</sub>,c] > 1 $\forall c \in CL$.
 
 **Distance constraints between facilities:**
 The first line after **3 constraints between facilities:**, contains **0 1 0** meaning that the first and second facilities must be located at an Euclidean distance greater than (>) zero (0). Similarly, D[x<sub>1</sub>, x<sub>2</sub>] > 0.
